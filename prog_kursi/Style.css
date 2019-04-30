@@ -1,0 +1,71 @@
+body {
+    background-color: antiquewhite;
+}
+
+.navigation {}
+
+.navigation #Logo {
+    width: 150px;
+    height: 80px;
+    vertical-align: middle;
+}
+
+.navigation li {
+    display: inline;
+    margin-left: 40px;
+}
+
+
+
+.navigation a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-family: 'Tahoma', sans-serif;
+}
+
+
+.Galerija li {
+    list-style-type: none;
+}
+
+.mainHeader {
+    height: 600px;
+    width: 100%;
+    background: url(Images/Full-Code-School-Review.jpg) no-repeat center;
+}
+
+.Kontakti {
+    height: 600px;
+    width: 100%;
+    background: url(Images/computer-2583383_640.jpg) no-repeat center;
+}
+
+.Apmacibas{
+    height: 600px;
+    width: 100%;
+    background: url(Images/programminglanguages11_resize_md.jpg) no-repeat center;
+}
+
+table {
+
+    font-size: 20px;
+    color: darkslateblue;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 65px;
+
+}
+
+h1 {
+    font-size: 30px;
+    color: darkblue;
+    font-family: 'Roboto', sans-serif, bold;
+}
+
+
+
+.lauks {
+    padding-right: 250px;
+}
+
+
