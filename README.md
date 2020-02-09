@@ -1,12 +1,12 @@
 # Parauga projekta pilnais nosaukums
-:Internetveikals alp?nismu aprikojuma pardo�anai
+Internetveikals alpīnismu aprikojuma pardošanai
 
 ## Projekta apraksts
-Kvalifikacijas darba mer?is ir izveidot internetveikalu, kur� b?z?ts uz alp?nismu aprikojuma pardo�anu. 
-Internetveikal? b?s 3 apak�sist?mas. Re?istr?ta lietot?ja sist?ma, viesa sist?ma, pardeveja sist?ma. Viesim bus iespeja registreties, 
-apskat?t preces, ielikt preces groz?, izveidot pasut?jumu un sanemt bonusa punktus. Pardevejs var pievienot jauno preci, nonemt preces un rediget preces.
+Kvalifikacijas darba merķis ir izveidot internetveikalu, kurš bāzēts uz alpīnismu aprikojuma pardošanu. 
+Internetveikalā būs 3 apakšsistēmas. Reģistrēta lietotāja sistēma, viesa sistēma, pardeveja sistēma. Viesim bus iespeja registreties, 
+apskatīt preces, ielikt preces grozā, izveidot pasutījumu un sanemt bonusa punktus. Pardevejs var pievienot jauno preci, nonemt preces un rediget preces.
 
-## Izmantot?s tehnologijas
+## Izmantotās tehnologijas
 Projektā tiek izmantots:
 - HTML
 - CSS
